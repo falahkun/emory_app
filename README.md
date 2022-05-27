@@ -16,7 +16,6 @@ To build APK desired flavor use the following commands:
 
 ```sh
 
-# Production
 $ flutter build apk --target lib/main.dart
 
 ```
