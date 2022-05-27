@@ -12,7 +12,7 @@ $ flutter run --target lib/main.dart
 
 ## Build App 🔥
 
-To build APK desired flavor use the following commands:
+To build APK use the following commands:
 
 ```sh
 
