@@ -1,15 +1,3 @@
-
-
-[![Language][dart_language_badge]](http://dart.dev)
-
-## Preview 🪟
-
-| ----------- | ----------- | ----------- |
-| ![screenshot_1](C:\Users\falah\Developments\emory_app\screenshots\screenshot_1.png "screenshot_1")
-| ![screenshot_2](C:\Users\falah\Developments\emory_app\screenshots\screenshot_2.png "screenshot_2")
-| ![screenshot_3](C:\Users\falah\Developments\emory_app\screenshots\screenshot_3.png "screenshot_3")
-|
-
 ## Getting Started 🚀
 
 
